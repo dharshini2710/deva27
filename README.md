@@ -10,7 +10,7 @@
 
 <body>
     <div class="card">
-        <h1 class="font">Celebrating the Opening of Hamaas Cakery 🎂</h1>
+        <h1 class="font">Celebrating the Opening of Dreams Cakery 🎂</h1>
         <img class="image" src="https://uploads.turbologo.com/uploads/design/hq_preview_image/4859124/draw_svg20210602-26376-1v1hun8.svg.png">
         </br>
         <h2>Grand Opening Event 📅</h2>
@@ -62,9 +62,9 @@
         <div>
             <h3>contact us</h3>
             <p>ph.no : +91 8729112233</p>
-            <p>E-mail id : hamaasbackery@gmail.com</p>
-            <div>insta id : hamaasbackery.org>
-                <p>Website :https//:hamaasbackery.com</p>
+            <p>E-mail id : devabackery@gmail.com</p>
+            <div>insta id : devabackery.org>
+                <p>Website :https//:devabackery.com</p>
             </div>
 
             <hr>
